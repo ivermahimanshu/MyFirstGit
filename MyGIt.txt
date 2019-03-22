@@ -1,1 +1,2 @@
 This is My first Git Practice
+I made a change after first commit
